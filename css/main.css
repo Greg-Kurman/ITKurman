@@ -10,8 +10,8 @@
  }
 
  span {
-    transform: rotate(-2deg);
-    transition: 3s;
+
+
  }
 
  body, html {
@@ -264,7 +264,7 @@ header #logo span {
 }
 
 #contacts { 
-    transform: rotate(1deg);
+
     width: 100%;
     float: left;
     padding-bottom: 40px;
